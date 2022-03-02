@@ -1,7 +1,7 @@
 
 # Twitter Sentiment Analysis on Climate Change
 
-Climate change is a issue that rquire immediate attention. Thus, more business adopting sustainable and eco-friendly services and products. Therefore, it is critical to understand people's percption of this topics. To achieve that, we analyzed tweets from Twitter to fain valuable insights towards people's sentiments.
+Climate change is an issue that require immediate attention. Thus, more business adopting sustainable and eco-friendly services and products. Therefore, it is critical to understand people's perception of this topics. To achieve that, we analysed tweets from Twitter to fain valuable insights towards people's sentiments.
 
 **Research Question**
     
